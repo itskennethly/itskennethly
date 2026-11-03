@@ -1,4 +1,7 @@
-## Hi there 👋
+# Who am I 
+Hello welcome to my github page👋<br>
+I'm Kenneth, a third year Electrical Engineering student at York University.<br><br>
+🔭 I’m currently building hardware and tech projects
 
 <!--
 **ItsKennethLy/ItsKennethLy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
